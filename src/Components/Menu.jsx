@@ -7,13 +7,13 @@ const Menu = () => {
       <div className="left-menu">MyPortfolio</div>
       <div className="right-menu">
         <span>
-          <a href="">Projects</a>
+          <a href="/">Projects</a>
         </span>
         <span>
-          <a href="">Skills</a>
+          <a href="/">Skills</a>
         </span>
         <span>
-          <a href="">Contact</a>
+          <a href="/">Contact</a>
         </span>
       </div>
     </section>
